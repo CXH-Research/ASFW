@@ -25,7 +25,7 @@
   (📮 Corresponding author)
 </div>
 
-<b>University of Macau, Shanghai Jiao Tong University, SIAT CAS, Xi'an Jiaotong-Liverpool University, Huizhou Univeristy</b>
+<b>New York Institute of Technology, SIAT CAS, Shanghai University, Central South University, Xi'an Jiaotong-Liverpool University, Huizhou Univeristy</b>
 
 In <b>_IEEE International Conference on Acoustics, Speech, and Signal Processing 2026 (ICASSP 2026)_</b>
 
